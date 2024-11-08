@@ -2,7 +2,7 @@
 
 Introduction
 
-The main aim of this assignment is to build an extraction-based QA model that identifies the span of a text in a paragraph answering a given question. We identify the starting, ending positions of this span, and return the answer from the paragraph itself. For this assignment, I worked on two popular transformer-based models BERT and DistilBERT. Both of them are developed by Hugging face and these models can be of great use for building question answer models. For training purposes, I have chosen the given data set Spoken Question Answering Dataset (SQuAD) which consists of 37,111 question answer pairs as training set and 5,351 as the testing set.
+For this assignment, I worked on two popular transformer-based models BERT and DistilBERT. Both of them are developed by Hugging face and these models can be of great use for building question answer models. For training purposes, I have chosen the given data set Spoken Question Answering Dataset (SQuAD) which consists of 37,111 question answer pairs as training set and 5,351 as the testing set.
 
 Data Processing and Fine-Tuning
 
